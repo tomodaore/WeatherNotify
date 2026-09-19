@@ -33,6 +33,9 @@ Weather Notify は、Windows PC 上で現在地や指定地点の天気を確認
 - 5分ごとの自動更新 + 手動更新
 - Setup.exe によるWindowsインストール
 
+  <img width="1916" height="1026" alt="image" src="https://github.com/user-attachments/assets/6095f596-ca19-4162-86fc-e409dc25452d" />
+
+
 ## 技術的なポイント
 
 この作品では、単純なAPI表示だけでなく、Windowsアプリとして継続利用できる構成を意識しています。
